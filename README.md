@@ -28,7 +28,7 @@ Your task as a player is to build a **row** or a **column** or a **diagonal** wi
 
 ![Screenshot of the rules area that shows how to win the game](/assets/images/column.png)
 
-![Screenshot of the rules area that shows how to win the game](/assets/images/Dagonal.png)
+![Screenshot of the rules area that shows how to win the game](/assets/images/Diagonal.png)
 
 ### '[r]'
 Will display the rules for each mode and how to win
