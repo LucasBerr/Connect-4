@@ -1,4 +1,4 @@
- # YOUR PROJECT TITLE
+ # CONNECT-4
   #### Video Demo:  [Video demo on Youtube](https://youtu.be/5ftqHaiICH8)
    ## Description:
 
